@@ -9,4 +9,4 @@ Hi everyone.. I'm Yehan Kalhara.  👋
 
 <h4><b> Connect with me</b></h4>
 
-<a href = ""><i class="far fa-envelope-open"></i></a>
+<a href = ""><img src = "email.png"></a>
