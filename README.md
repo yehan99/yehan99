@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 Hi everyone.. I'm Yehan Kalhara.  👋
 
 <h3><b> UX/UI designer || Frontend developer || Graphic Designer </b></h3>
