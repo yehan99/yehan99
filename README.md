@@ -10,4 +10,4 @@ Hi everyone.. I'm Yehan Kalhara.  👋
 
 <h4><b> Connect with me</b></h4>
 
-<a href = ""><img src = "emai.png" style = "width: 10px"></a>
+<a href = ""><img id = "image" src = "emai.png" style = "width: 10px"></a>
