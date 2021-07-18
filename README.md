@@ -1,7 +1,7 @@
 Hi everyone.. I'm Yehan Kalhara.  👋
-<div class = "slogan" style = "color: red">
-<b> UX/UI designer || Frontend developer || Graphic Designer </b>
-  </div>
+
+<h1><b> UX/UI designer || Frontend developer || Graphic Designer </b></h1>
+
 
 <!--
 **yehan99/yehan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
