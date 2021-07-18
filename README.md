@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi everyone.. I'm Yehan Klahara.  👋
+
+UX/UI designer || Frontend developer || Graphic Designer
 
 <!--
 **yehan99/yehan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
