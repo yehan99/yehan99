@@ -4,9 +4,9 @@ Hi everyone.. I'm Yehan Kalhara.  👋
 
 - 🔭 I’m currently working on <a href = "https://mycareer.virtusa.com/">Virtusa</a>
 - 🌱 I’m currently learning <a href = "https://mycareer.virtusa.com/">SLIIT</a>
-- 👯 I’m looking to collaborate on UX/UI designers
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate with angular projects.
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/yehan-kalhara/">Linked-in</a>
+
+<h4><b> Connect with me</b></h4>
+
+<a href = ""><i class="far fa-envelope-open"></i></a>
