@@ -1,6 +1,6 @@
 Hi everyone.. I'm Yehan Kalhara.  👋
 
-<h1><b> UX/UI designer || Frontend developer || Graphic Designer </b></h1>
+<h3><b> UX/UI designer || Frontend developer || Graphic Designer </b></h3>
 
 
 <!--
