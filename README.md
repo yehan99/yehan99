@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="styles.css">
 Hi everyone.. I'm Yehan Kalhara.  👋
 
-<h3><b> UX/UI designer || Frontend developer || Graphic Designer </b></h3>
+<h3><b> UX/UI designer || Frontend developer</b></h3>
 
 - 🔭 I’m currently working on <a href = "https://mycareer.virtusa.com/">Virtusa</a>
 - 🌱 I’m currently learning <a href = "https://mycareer.virtusa.com/">SLIIT</a>
